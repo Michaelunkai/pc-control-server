@@ -1,0 +1,8 @@
+2026-01-28 15:07:49 [INFO] ============================================================
+2026-01-28 15:07:49 [INFO] PC Control Server starting...
+2026-01-28 15:07:49 [INFO] Base directory: F:\study\Dev_Toolchain\programming\python\apps\pc-control-server
+2026-01-28 15:07:49 [INFO] Listening on: http://127.0.0.1:5000
+2026-01-28 15:07:49 [INFO] Auth: disabled
+2026-01-28 15:07:49 [INFO] Screen size: 3840x2160
+2026-01-28 15:07:49 [INFO] ============================================================
+2026-01-28 15:08:31 [DEBUG] Batch executed 3 actions

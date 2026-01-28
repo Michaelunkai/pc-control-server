@@ -1,0 +1,6 @@
+flask>=3.0.0
+pyautogui>=0.9.54
+pillow>=10.2.0
+pywin32>=306
+pyperclip>=1.8.2
+pyinstaller>=6.3.0
