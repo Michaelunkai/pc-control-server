@@ -79,3 +79,5 @@ Base URL: `http://127.0.0.1:5000`
 ## Security
 - Binds to `127.0.0.1` only (no external access)
 - Optional API key via `X-API-Key` header
+
+<!-- gitit-sync: 2026-01-28 15:33:02.903726 -->
